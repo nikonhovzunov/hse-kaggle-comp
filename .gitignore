@@ -20,3 +20,4 @@ submissions/*
 
 catboost_info/
 *.log
+docs/
