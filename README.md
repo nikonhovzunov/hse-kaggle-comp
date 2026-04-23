@@ -10,6 +10,7 @@ The original solution was developed in a notebook. This repository keeps the cor
 | --- | --- |
 | Project | HSE ML Course Competition 2026 - Dota 2 |
 | Platform | Kaggle |
+| Competition URL | https://www.kaggle.com/competitions/dota-2-hse-ml-1-course-competition-2026 |
 | Kaggle nickname | NikonHV |
 | Result | 8th place out of 444 |
 | Public/private score | 0.41971 |

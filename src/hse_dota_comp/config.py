@@ -8,6 +8,10 @@ from dataclasses import dataclass
 @dataclass(frozen=True)
 class CompetitionResult:
     competition_name: str = "HSE ML Course Competition 2026 - Dota 2"
+    competition_url: str = (
+        "https://www.kaggle.com/competitions/"
+        "dota-2-hse-ml-1-course-competition-2026"
+    )
     kaggle_username: str = "NikonHV"
     rank: str = "8th place out of 444"
     score: float = 0.41971

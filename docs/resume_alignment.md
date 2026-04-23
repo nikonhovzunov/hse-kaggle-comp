@@ -7,6 +7,8 @@ This file records the exact claims from the current resume PDF and where they ar
 **HSE ML Course Competition 2026 (Dota 2)** — 8 место из 444  
 Kaggle | предсказание исхода матча
 
+Competition URL: https://www.kaggle.com/competitions/dota-2-hse-ml-1-course-competition-2026
+
 - Построил модель для предсказания исхода матча по составам команд, динамике золота и опыта и сигналам из игровых чатов.
 - При ограничении на линейные модели вынес нелинейность в признаки: добавил полиномиальные взаимодействия и объединил игровые и текстовые сигналы в единое признаковое пространство.
 
